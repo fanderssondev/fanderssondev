@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nanobyter, or more commonly called Fredrik. 
-- 👀 I’m interested in all stuff programming, although especially Java and other C-based languages.
-- 🌱 I’m currently learning Spring and Spring boot. Also poking around with some front end stuff.
+- 👋 Hi, I’m @fanderssondev, or more commonly called Fredrik. 
+- 👀 I’m interested in all stuff programming, right now mostly web dev stuff. 
+- 🌱 I’m currently learning vanilla js, but future plans is react.
 - 📫 How to reach me ... You can send me a message here on GitHub.
 
 <!---
