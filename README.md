@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fanderssondev, or more commonly called Fredrik. 
 - 👀 I’m interested in all stuff programming, right now mostly web dev stuff. 
-- 🌱 I’m currently learning vanilla js, but future plans is react.
+- 🌱 I’m currently mostly doing react stuff.
 - 📫 How to reach me ... You can send me a message here on GitHub.
 
 <!---
